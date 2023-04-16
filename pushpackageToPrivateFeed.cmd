@@ -1,0 +1,1 @@
+dotnet nuget push --source "PrivateFeed" --api-key az C:\Projects\RulesEngineEditor\src\RulesEngineEditor\bin\Release\RulesEngineEditor.1.3.5.nupkg --interactive
