@@ -5,9 +5,9 @@
     <ApplicationIcon>icon.ico</ApplicationIcon>
     <AssemblyName>RulesEngineEditor</AssemblyName>
     <RootNamespace>RulesEngineEditor</RootNamespace>
-    <Authors>Alex Reich</Authors>
+    <Authors>Rong Zhou</Authors>
     <Description>Editor for Microsoft RulesEngine - Blazor UI library intended for integration in Web or Desktop</Description>
-    <Copyright>Copyright (c) Alex Reich.</Copyright>
+    <Copyright>Copyright (c) Rong Zhou.</Copyright>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageProjectUrl>https://github.com/alexreich/RulesEngineEditor</PackageProjectUrl>
     <PackageTags>BRE, Rules Engine, Abstraction, Editor</PackageTags>
@@ -15,9 +15,9 @@
     <PackageIcon>RulesEngineEditor.png</PackageIcon>
     <PackageIconUrl />
 	<PackageId>RulesEngineEditor</PackageId>
-    <Version>1.3.0</Version>
-    <AssemblyVersion>1.3.0</AssemblyVersion>
-    <FileVersion>1.3.0</FileVersion>
+    <Version>1.3.5</Version>
+    <AssemblyVersion>1.3.5</AssemblyVersion>
+    <FileVersion>1.3.5</FileVersion>
     <PackageReadmeFile>README.md</PackageReadmeFile>
 	<IsPackable>true</IsPackable>
   </PropertyGroup>
