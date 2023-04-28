@@ -1,0 +1,1 @@
+dotnet nuget push --source "FeedOne" --api-key az C:\Projects\RulesEngineEditor\src\RulesEngineEditor\bin\Debug\RulesEngineEditor.1.3.5.nupkg --interactive
